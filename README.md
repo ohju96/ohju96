@@ -1,6 +1,19 @@
-### <div align=center>🖐🏻Hi</div>
+### <div align=center>🖐🏻Hi there !</div>
 ---
 
+<div align="center">
+
+😁좋은 개발자가 되기 위해 매일 작은 노력을 쌓고 있는 오주현입니다.<br>
+I'm making a small effort every day to become a good developer.✨
+
+**Velog & Blog**
+
+<a href="https://velog.io/@ohju96"><img src="https://img.shields.io/badge/EnglishVelog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ohju96"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/"><img src="https://img.shields.io/badge/KoreanBlog-FFD400?style=flat-square&logo=TV Time&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 -->
+
+**TIL & 회고 & **
+
+<a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"><img src="https://img.shields.io/badge/TIL-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%ED%9A%8C%EA%B3%A0"><img src="https://img.shields.io/badge/회고-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%EA%B0%95%EC%97%B0%20%EB%B0%8F%20%EC%84%B8%EB%AF%B8%EB%82%98"><img src="https://img.shields.io/badge/세미나-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 -->
+</div>
 
 <br>
 
