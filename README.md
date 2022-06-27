@@ -2,9 +2,14 @@
 ---
 
 
+<br>
+
 ### <div align=center>✨Skill</div>
 ---
 
+
+
+<br>
 
 ### <div align=center>🧪Project</div>
 ---
@@ -19,6 +24,8 @@
 |[COSMOS(코스모스 : 코딩 스터디 모임 스타트! : 스터디 웹 애플리케이션)](https://ohju.tistory.com/category/Project/%EC%BD%94%EC%8A%A4%EB%AA%A8%EC%8A%A4%28%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%29)| 👯‍♀️팀 프로젝트 | 22.06.27 ~ ing |
 </div>
 
+<br>
+
 ### <div align=center>🏆Tropy</div>
 ---
 
@@ -31,13 +38,23 @@
 |2021 | Paas-Ta 기반 서비스 개발 | 🏅특별상(4등, 한국클라우드컴퓨팅연구조합 이사장상)| <br>
 </div>
 
+
+<br>
+
+### <div align=center>👀Git Hub</div>
 ---
+
+
+<div align="center">
 
 <!-- 트로피 표시 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ohju96)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 랭크 표시 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohju96&show_icons=true&theme=radical)
+![ohju96's github stats](https://github-readme-stats.vercel.app/api?username=ohju96&show_icons=true)
+[![ohju96's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ohju96&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ohju96)
+
+</div>
 
 <!-- 방문자 표시 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohju96&count_bg=%236499EF&title_bg=%236B9327&icon=github.svg&icon_color=%232300FE&title=Thank+You+%21%21&edge_flat=false)](https://hits.seeyoufarm.com)
