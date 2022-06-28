@@ -34,9 +34,9 @@ I'm making a small effort every day to become a good developer.✨
 <div align="center">
 
 <img src="https://img.shields.io/badge/💡-006272?style=flat-square&logo=&logoColor=FFFFFF"/>  : 구분 <br>
-<img src="https://img.shields.io/badge/😁-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> :  익숙하게 사용 가능하고 프로젝트 적용 경험이 있다. <br>
-<img src="https://img.shields.io/badge/😅-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> :  익숙하진 않으나 찾아가면서 사용하면 사용 가능하다. <br>
-<img src="https://img.shields.io/badge/🤔-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/> :  사용이나 공부 경험이 있으나 잘 활용하지 못 한다. or 관심이 있어 몇 번 봤다. <br>
+<img src="https://img.shields.io/badge/😁-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> :  익숙하게 사용 가능하다. <br>
+<img src="https://img.shields.io/badge/😅-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> :  찾아가면서 사용 가능하다. <br>
+<img src="https://img.shields.io/badge/🤔-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/> :  사용 혹은 공부 경험이 있으나 잘 못 사용한다. <br>
   
 |**구분**|**스킬**|
 |-----|---|
