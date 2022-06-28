@@ -6,21 +6,49 @@
 😁좋은 개발자가 되기 위해 매일 작은 노력을 쌓고 있는 오주현입니다.<br>
 I'm making a small effort every day to become a good developer.✨
 
+<br>
+
 **Velog & Blog**
 
 <a href="https://velog.io/@ohju96"><img src="https://img.shields.io/badge/EnglishVelog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ohju96"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/"><img src="https://img.shields.io/badge/KoreanBlog-FFD400?style=flat-square&logo=TV Time&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 -->
 
+<br>
+
 **TIL & 회고 & 세미나**
 
 <a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"><img src="https://img.shields.io/badge/TIL-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%ED%9A%8C%EA%B3%A0"><img src="https://img.shields.io/badge/회고-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%EA%B0%95%EC%97%B0%20%EB%B0%8F%20%EC%84%B8%EB%AF%B8%EB%82%98"><img src="https://img.shields.io/badge/세미나-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 -->
-</div>
+
 
 <br>
+
+**메인 스킬**
+
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=FFFFFF"/>
+
+
+</div>
 
 ### <div align=center>✨Skill</div>
 ---
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/💡-006272?style=flat-square&logo=&logoColor=FFFFFF"/>  : 구분 <br>
+<img src="https://img.shields.io/badge/😁-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> :  익숙하게 사용 가능하고 프로젝트 적용 경험이 있다. <br>
+<img src="https://img.shields.io/badge/😅-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> :  익숙하진 않으나 찾아가면서 사용하면 사용 가능하다. <br>
+<img src="https://img.shields.io/badge/🤔-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/> :  사용을 해 봤거나, 공부를 했지만 익숙하지 않아 서툴다. 혹은 관심이 있다. <br>
+
+|**구분**|**스킬**|
+|-----|---|
+|<img src="https://img.shields.io/badge/Language-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/Java-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS3-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|<img src="https://img.shields.io/badge/Framework-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/Spring Boot-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Framework-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flask Framework-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|Spring|java|
+|Server|java|
+|Tool|java|
+|DataBase|java|
+
+
+<div>
 
 <br>
 
