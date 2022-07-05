@@ -4,7 +4,9 @@
 <div align="center">
 
 😁좋은 개발자가 되기 위해 매일 작은 노력을 쌓고 있는 오주현입니다.<br>
-I'm making a small effort every day to become a good developer.✨
+I'm making a small effort every day to become a good developer.✨<br>
+
+`Velog` `Blog` `TIL` `회고` `세미나` 탭은 클릭 시 해당 링크로 이동됩니다.
 
 <br>
 
