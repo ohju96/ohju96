@@ -13,7 +13,7 @@ I'm making a small effort every day to become a good developer.✨<br>
 **Velog & Blog**
 ###### 22.07.10부터 [Velog](https://velog.io/@ohju96/about)로 블로그를 옮겼습니다.
 
-<a href="https://velog.io/@ohju96/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ohju96"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFD400?style=flat-square&logo=TV Time&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 -->
+<a href="https://velog.io/@ohju96/about"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ohju96"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFD400?style=flat-square&logo=TV Time&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 -->
 
 <br>
 
