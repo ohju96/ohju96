@@ -28,37 +28,10 @@ I'm making a small effort every day to become a good developer.✨<br>
 **메인 스킬**
 
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=FFFFFF"/> <!-- 구분 --> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/> <!-- 구분 --> 
 
 
 </div>
-
-### <div align=center>✨Skill</div>
----
-
-<div align="center">
-
-
-✔ 프로젝트에 적용된 기술 기준으로 주관적인 의견으로 체크했습니다.<br>
-
-<img src="https://img.shields.io/badge/💡-006272?style=flat-square&logo=&logoColor=FFFFFF"/>  : 구분 <br>
-<img src="https://img.shields.io/badge/😁-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> :  프로젝트에 활용할 수 있다.<br>
-<img src="https://img.shields.io/badge/😅-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> :  기초 정도 활용이 가능하다. <br>
-<img src="https://img.shields.io/badge/🤔-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/> :  사용, 공부 경험이 있다. <br>
-  
-|**구분**|**스킬**|
-|-----|---|
-|<img src="https://img.shields.io/badge/Language-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/Java-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS3-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/R-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/>|
-|<img src="https://img.shields.io/badge/Framework-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/Spring Boot-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Framework-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flask Framework-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/>|
-|<img src="https://img.shields.io/badge/Spring-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/JPA-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Maven-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Gradle-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Ajax-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/>|
-|<img src="https://img.shields.io/badge/Server&DevOps-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/Tomcat-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Docker-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/K8s-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/>|
-|<img src="https://img.shields.io/badge/Tool-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/IntelliJ-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DataGrip-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQLWorkbench-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/WebStorm-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Eclipse-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/>|
-|<img src="https://img.shields.io/badge/DataBase-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/OracleDB-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MongoDB-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Redis-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Hadoop-FF3633?style=flat-square&logo=&logoColor=FFFFFF"/>|
-|<img src="https://img.shields.io/badge/OS-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/CentOS-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Ubuntu-FF9900?style=flat-square&logo=&logoColor=FFFFFF"/>|
-|<img src="https://img.shields.io/badge/ETC-006272?style=flat-square&logo=&logoColor=FFFFFF"/>|<img src="https://img.shields.io/badge/Notion-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Git-0099FF?style=flat-square&logo=&logoColor=FFFFFF"/>|
-
-
-<div>
 
 <br>
 
