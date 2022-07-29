@@ -18,7 +18,7 @@ I'm making a small effort every day to become a good developer.✨<br>
 <br>
 
 **TIL & 회고 & 세미나**
-###### 22.07.10부터 TIL은 [Git Hub](https://github.com/ohju96/TIL)에 작성합니다.  
+###### 22.07.10부터 TIL은 [Git Hub](https://github.com/ohju96/TIL)에 작성합니다. | [회고](https://velog.io/@ohju96/series/%ED%9A%8C%EA%B3%A0)와 [세미나](https://velog.io/@ohju96/series/%EC%84%B8%EB%AF%B8%EB%82%98)는 [Velog](https://velog.io/@ohju96/about)에서 작성합니다.
 ###### 아래 링크는 이전 Tistory 블로그에 작성된 TIL, 회고, 세미나입니다.
 
 <a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"><img src="https://img.shields.io/badge/TIL-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%ED%9A%8C%EA%B3%A0"><img src="https://img.shields.io/badge/회고-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 --><a href="https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%EA%B0%95%EC%97%B0%20%EB%B0%8F%20%EC%84%B8%EB%AF%B8%EB%82%98"><img src="https://img.shields.io/badge/세미나-EF2D5E?style=flat-square&logo=&logoColor=white&link=https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned"/></a> <!-- 구분 -->
