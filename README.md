@@ -46,7 +46,6 @@ I'm making a small effort every day to become a good developer.✨<br>
 |[음식 알레르기 환자를 위한 식품 성분 분석 웹 애플리케이션(한글 버전 / 파스타 참가)](https://github.com/ohju96/2021_PaasTaPrj_Demo) | 👯‍♀️팀 프로젝트 | 21.04.01 ~ 21.10.31 | <br>
 |[가스 탐지 자동 환풍 시스템](https://github.com/ohju96/2021_EmbededdPrj_Demo)| 👯‍♀️팀 프로젝트 | 21.06.01 ~ 21.10.31 | <br>
 |[소단지 경비원을 위한 주차 관리 웹 애플리케이션](https://github.com/ohju96/S_P_M_Project)| 🙋🏻‍♂️개인 프로젝트 | 22.03.23 ~ 22.06.09 | <br>
-|[COSMOS(코스모스 : 코딩 스터디 모임 스타트! : 스터디 웹 애플리케이션)](https://ohju.tistory.com/category/Project/%EC%BD%94%EC%8A%A4%EB%AA%A8%EC%8A%A4%28%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%29)| 👯‍♀️팀 프로젝트 | 22.06.27 ~ 일시정지 |
 </div>
 
 <br>
@@ -75,9 +74,7 @@ I'm making a small effort every day to become a good developer.✨<br>
 <!-- 트로피 표시 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ohju96)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- 랭크 표시 -->
-![ohju96's github stats](https://github-readme-stats.vercel.app/api?username=ohju96&show_icons=true)
-[![ohju96's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ohju96&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ohju96)
+
 
 </div>
 
